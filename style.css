@@ -31,7 +31,7 @@ img {
   background-color: var(--white);
   padding: 1rem;
   border-radius: 0.5em;
-  width: 15.5rem;
+  width: 15rem;
   color: var(--slate-500);
   display: grid;
   gap: 1rem;
@@ -39,7 +39,7 @@ img {
 }
 .qr-code__title {
   color: var(--slate-900);
-  font-size: 1.2em;
+  font-size: 1.3em;
   font-weight: 700;
 }
 .qr-code__img {
